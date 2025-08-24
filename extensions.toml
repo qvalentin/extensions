@@ -490,7 +490,7 @@ repository = "wesbos/cobalt2-zed"
 
 [cobol]
 submodule = "extensions/cobol"
-version = "0.0.3"
+version = "0.0.4"
 repository = "willswire/zed-cobol"
 
 [code-stats]
