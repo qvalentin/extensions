@@ -350,7 +350,7 @@ repository = "mirageN1349/browser-tools-context-server"
 
 [c3]
 submodule = "extensions/c3"
-version = "0.0.2"
+version = "0.0.3"
 repository = "AineeJames/c3-zed"
 
 [caddyfile]
