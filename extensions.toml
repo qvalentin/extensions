@@ -1412,7 +1412,7 @@ repository = "artemevsevev/zed-theme-jetbrains"
 
 [jinja2]
 submodule = "extensions/jinja2"
-version = "0.0.1"
+version = "0.0.2"
 repository = "ArcherHume/jinja2-support"
 
 [jira-slash-command]
